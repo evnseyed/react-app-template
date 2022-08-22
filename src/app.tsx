@@ -6,5 +6,5 @@ export const App: FC<{}> = () => {
 		<div>
 			App
 		</div>
-	)
-}
+	);
+};
